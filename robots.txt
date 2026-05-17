@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://erikaCV.github.io/sitemap.xml
+Sitemap: https://erikaaaaa7.github.io/erikaCV.github.io/sitemap.xml
