@@ -99,7 +99,7 @@ cv:
         awarder: N/A
         summary: Philippine Robothon is an Annual thematic competition of First Eduspec Inc. (FEI).
 
-      - title: Outstanding Student in WORK IMMERSION
+      - title: Outstanding Student in WORK IMMERSION 2025
         authors:
           - 
         date: 2025
@@ -133,22 +133,36 @@ cv:
         summary: "Mantis, a colorfully cutthroat card game of RAINBOWS and REVENGE. This game is good for 3-6 players. Players only has two rules: Score or Steal. Each card has 1 color at the front, 3 colors at the back, and corresponding points. They have to collect caards with matching colors. The first player who reaches the winning point, wins."
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Communication and Social Skills
+        level: 
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "able to interact and talk to people without any difficulties"
+
+      - name: Adaptability
+        level: 
+        icon: fa-solid fa-hashtag
+        keywords: "can easily adjust to change and learn new skills"
+
+      - name: Critical Thinking
+        level: 
+        icon: fa-solid fa-hashtag
+        keywords: "can evaluate given information and think of necessary decisions"
 
     Languages:
-      - name: German
+      - name: Filipino
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Computer Science
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "C Language, Robotics, Lego Mindstorms"
+
+      - name: Psychology
+        icon: fa-solid fa-tag
+        keywords: "Human Behaviors, Mental Problems"
 
     Certificates:
       - name: Machine Learning
